@@ -19,3 +19,11 @@ def outer():
     print(s)
 outer()
 print(s)
+
+
+# output
+# Ludhiana
+# Ludhiana
+# Chandigarh
+# Chandigarh
+# Haryana
